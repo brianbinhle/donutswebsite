@@ -1,0 +1,32 @@
+.content-1 {
+    background-color:#dee6bc;
+}
+.content-2 {
+    background-color:#615648;
+}
+.content-3 {
+    background-color:#e6ca8a;
+}
+
+body {
+    background-color:#f8f2e7;
+}
+
+.bg-nav {
+    background-color:#64747d;
+}
+
+.bg-footer {
+    background-color:#64747d;
+}
+
+.about-image {
+    background-image:url("https://images.freeimages.com/fic/images/icons/2711/free_icons_for_windows8_metro/512/guest.png");
+    background-size:100%;
+    height:auto;
+}
+
+header {
+    background-image:url("donuts.png");
+    background-size:cover;
+}
